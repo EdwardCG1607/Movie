@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import logo from "../assets/Logo-page.png";
 import "../styles/headerStyles.css";
 
 const Header = () => {
@@ -7,6 +8,7 @@ const Header = () => {
     <header className="header">
       <div className="header-left">
         <Link to="/home" className="header-logo">
+        <img src={logo} alt="Mr. Movies Logo" className="logo-image" /> 
           Mr. Movies
         </Link>
         <nav className="header-nav">

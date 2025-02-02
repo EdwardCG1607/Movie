@@ -4,6 +4,7 @@ import { Button, TextField, Avatar, Grid, Paper, CssBaseline, Typography } from 
 import LockOutlinedIcon from "@mui/icons-material/LockOutlined";
 import Header from "../components/header-login";
 import Footer from "../components/Footer";
+import "../styles/headerStylestwo.css";
 import "../styles/loginStyles.css";
 
 const Login = () => {
