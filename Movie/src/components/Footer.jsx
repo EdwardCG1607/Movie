@@ -6,6 +6,7 @@ import microsoftStore from "../assets/microsoft-store.webp";
 import facebookIcon from "../assets/facebook-icon.png";
 import instagramIcon from "../assets/instagram-icon.png";
 import xIcon from "../assets/x-icon.png";
+import "../styles/global.css";
 
 const Footer = () => {
   return (

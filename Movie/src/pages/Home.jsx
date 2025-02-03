@@ -6,6 +6,7 @@ import Footer from "../components/Footer";
 import Movie from "../assets/ImageneMovie.webp";
 import Serie from "../assets/ImageneSerie.jpg";
 import "../styles/homeStyles.css";
+import "../styles/global.css";
 
 const Home = () => {
   return (

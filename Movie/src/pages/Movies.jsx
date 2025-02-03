@@ -17,6 +17,7 @@ import {
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import "../styles/movieStyles.css";
+import "../styles/global.css";
 
 const Movies = () => {
   const dispatch = useDispatch();

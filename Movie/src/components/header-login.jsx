@@ -1,7 +1,10 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import ('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap');
 import logo from "../assets/Logo-page.png";
 import "../styles/headerStylestwo.css";
+import "../styles/global.css";
+
 
 const Headerlogin = () => {
   return (

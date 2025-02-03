@@ -6,6 +6,7 @@ import Header from "../components/header-login";
 import Footer from "../components/Footer";
 import "../styles/headerStylestwo.css";
 import "../styles/loginStyles.css";
+import "../styles/global.css";
 
 const Login = () => {
   const navigate = useNavigate();
