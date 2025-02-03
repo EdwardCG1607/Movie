@@ -101,3 +101,27 @@ mr-movies/
 - **Comentarios y Reseñas**: Habilitar un sistema de calificaciones y opiniones de los usuarios sobre cada película o serie.
 - **Rankings**: Permitir que los usuarios voten por las películas para destacar los títulos más populares.
 
+## Capturas de Pantalla
+
+### **Página de Login**
+https://github.com/user-attachments/assets/95bc8af0-24dc-4bde-bbf0-ac122bc81853
+
+### **Página de Login resposive**
+https://github.com/user-attachments/assets/77ddca2d-6e85-4230-981b-79ca63223b28
+
+### **Página de Home**
+https://github.com/user-attachments/assets/fdbfbf20-acd1-40ee-be41-9c2b1d325c35
+
+### **Página de Home resposive**
+https://github.com/user-attachments/assets/6a23041f-bb7d-4e05-a402-7f3a96d2d5bc
+
+### **Página de Serie**
+https://github.com/user-attachments/assets/483a0fd0-aa0f-4015-8f28-83728934ae78
+
+### **Página de Serie resposive**
+https://github.com/user-attachments/assets/9682649b-bb4b-4620-89fc-3af4567d0662
+
+
+
+
+
